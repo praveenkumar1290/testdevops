@@ -1,2 +1,2 @@
 hello how are you?
-praveen2
+git reset we are using now
