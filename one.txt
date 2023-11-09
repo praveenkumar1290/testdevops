@@ -1,2 +1,2 @@
 hello how are you?
-git reset we are using now
+
